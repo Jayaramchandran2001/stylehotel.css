@@ -1,0 +1,2 @@
+# stylehotel.css
+webpage
